@@ -7,7 +7,10 @@
     "express": "^4.15.2",
     "morgan": "^1.8.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
